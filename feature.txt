@@ -1,1 +1,4 @@
-conflict1
+helloworld
+conflict2copy2line1
+conflict2copy2line2
+byeworld
